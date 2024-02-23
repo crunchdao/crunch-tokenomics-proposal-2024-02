@@ -1,7 +1,7 @@
 ---
 title: "Proposal - Tokenomics pivot"
 subtitle: "Crunch Foundation"
-author: [Crunch Team]
+author: [Maxime Sebti]
 date: "2024/02/23"
 lang: "en"
 colorlinks: true
@@ -50,6 +50,10 @@ Note that this model is similar to Helium and Render Network’s Burn-and-Mint e
 This proposal impacts all members of the Render Network community
 
 # Implementation
+
+To be discussed
+
+# Technical Considerations
 
 To be discussed
 
