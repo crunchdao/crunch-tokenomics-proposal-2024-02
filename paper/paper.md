@@ -16,10 +16,6 @@ footer-left: "Proposal - Tokenomics pivot"
 footer-right: "Crunch Foundation"
 abstract: "The proposal details the Crunch Foundation's strategic shift towards an innovative tokenomics framework, using the Burn and Mint Equilibrium model to create a proportional and sustainable revenue sharing mechanism and foster new AI markets across our community."
 ---
-
-# Author
-Maxime Sebti - Created 23/02/24
-
 # Category
 
 This is a core proposal.
