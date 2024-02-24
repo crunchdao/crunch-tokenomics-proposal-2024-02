@@ -47,7 +47,7 @@ Note that this model is similar to Helium and Render Network’s Burn-and-Mint e
 
 # Stakeholders
 
-This proposal impacts all members of the Render Network community
+This proposal impacts all members of the Crunch Foundation Community 
 
 # Implementation
 
